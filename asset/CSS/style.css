@@ -1,0 +1,134 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body{
+  background-color: rgb(72, 160, 243);
+  color: aliceblue;
+  font-family: "Raleway", sans-serif;
+}
+
+img {
+    width: 500px;
+    }
+    
+      
+      #Hero-Section {
+        background-image: url("../img/IMG\ CV\ 2.PNG");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+      /*Correjir formato con corchete*/
+
+        #mis-trabajos {
+          height: 250px;
+          background-repeat: no-repeat;
+          background-size: cover;
+          background-position: center;
+        }
+        
+
+      h1 {
+        text-align: center;
+        font-weight: 500;
+        font-size: 2rem;
+        font: normal normal medium 50px/59px Raleway;
+        color: #ffffff;
+      }
+
+      h2, h3 {
+        text-align: center;
+        font: normal normal medium 40px/47px Raleway;
+        letter-spacing: 0px;
+        color: #0c0b0b;
+        opacity: 1;
+        font-weight: "Raleway";
+        }
+
+        h5 {
+          text-align: center;
+          color: #022c2e;
+          padding-top: 20px;
+
+
+        }
+        
+        p {
+          text-align: center;
+          color: #070707;
+          padding-top: 20px;
+          font: normal normal medium 50px/59px Raleway;
+        }
+
+        p .card-text{
+          text-align: center;
+          color: #1e1a13;
+          padding-top: 20px;
+        }
+
+        p .text-end{
+          text-align: center;
+          color: #1e1a13;
+          padding-top: 20px;
+
+
+        }
+
+
+
+        
+
+        /*.desc-section {
+          margin: 5rem;
+          vertical-align: middle;
+          background-color: aqua;
+          }
+        
+        .texto {
+          display: inline-block;
+          width: 30%;
+          padding: 2rem;
+        }
+        .texto p {
+        text-align: left;
+        font: normal normal 300 16px/19px Raleway;
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        opacity: 1;
+        }
+
+        .icono-section {
+          /* background-color: #1e1a13;
+           text-align: center;
+           background: #1e1a13 0% 0% no-repeat padding-box;
+           opacity: 0.94;
+           text-align:center;
+          font-family: "raleway", sans-serif #1e1a13 0% 0%;
+            
+         }
+         .icono {
+           /*display: inline-block;
+           width: 20%;
+           font-size: 5rem;
+           text-align: center;
+           display: inline-block;
+           width: 28%;
+           padding: 2%;
+           text-align: center;
+           font-size: 1rem;
+         }*/
+
+      
+      .footer {
+        
+        opacity: 0.94;
+        text-align:center;
+        font: normal normal 300 20px/24px Raleway;
+        letter-spacing: 1px;
+        color: #ffffff;
+        opacity: 1;
+        padding: 1rem;
+      }
+      
